@@ -1,0 +1,63 @@
+.course-catalog {
+  padding: 1rem;
+}
+
+.course-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.course-card {
+  border: 1px solid #d0d7dd;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  padding: 1rem;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.08);
+}
+
+.course-card header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.category {
+  font-size: 0.875rem;
+  color: #2563eb;
+  font-weight: 700;
+}
+
+.description {
+  margin: 0.75rem 0;
+  color: #334155;
+}
+
+.meta,
+.price-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+.price {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.temario {
+  margin-top: 1rem;
+}
+
+.temario ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.empty-state {
+  margin-top: 2rem;
+  color: #475569;
+}
