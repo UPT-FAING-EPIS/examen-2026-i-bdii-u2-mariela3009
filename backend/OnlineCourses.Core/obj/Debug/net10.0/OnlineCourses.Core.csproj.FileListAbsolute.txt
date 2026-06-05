@@ -1,0 +1,13 @@
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/bin/Debug/net10.0/OnlineCourses.Core.deps.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/bin/Debug/net10.0/OnlineCourses.Core.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/bin/Debug/net10.0/OnlineCourses.Core.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.csproj.AssemblyReference.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.AssemblyInfoInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.AssemblyInfo.cs
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.csproj.CoreCompileInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.sourcelink.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/refint/OnlineCourses.Core.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/OnlineCourses.Core.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/obj/Debug/net10.0/ref/OnlineCourses.Core.dll

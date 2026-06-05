@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhSUwVQIGnk=",
+  "success": true,
+  "projectFilePath": "/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Core/OnlineCourses.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/mongodb.bson/2.24.0/mongodb.bson.2.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/bin/Debug/net8.0/OnlineCourses.Infrastructure.deps.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/bin/Debug/net8.0/OnlineCourses.Infrastructure.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/bin/Debug/net8.0/OnlineCourses.Infrastructure.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/bin/Debug/net8.0/OnlineCourses.Core.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/bin/Debug/net8.0/OnlineCourses.Core.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.csproj.AssemblyReference.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.AssemblyInfoInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.AssemblyInfo.cs
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.csproj.CoreCompileInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.sourcelink.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCo.442FE551.Up2Date
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/refint/OnlineCourses.Infrastructure.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/OnlineCourses.Infrastructure.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.Infrastructure/obj/Debug/net8.0/ref/OnlineCourses.Infrastructure.dll

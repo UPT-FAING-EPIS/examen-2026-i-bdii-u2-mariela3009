@@ -1,0 +1,9 @@
+%% Diagrama estrella de arquitectura para la plataforma
+flowchart LR
+  U[Usuario] -->|HTTPS| ALB[Application Load Balancer]
+  ALB -->|HTTP| API[API ASP.NET Core]
+  API -->|CRUD| Mongo[MongoDB Atlas]
+  API -->|Logs| CW[CloudWatch]
+  API -->|Auth| Auth[JWT / Refresh Tokens]
+  API -->|Infra| ECS[ECS Fargate]
+  ALB -->|DNS| Route53[Route53]

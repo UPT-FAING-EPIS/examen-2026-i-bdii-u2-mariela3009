@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "nombre": "Administrador Global",
+      "correo": "admin@onlinecourses.com",
+      "rol": "Admin",
+      "password": "Admin123!"
+    },
+    {
+      "nombre": "Estudiante Ejemplo",
+      "correo": "estudiante@onlinecourses.com",
+      "rol": "Estudiante",
+      "password": "Estudiante123!"
+    }
+  ],
+  "courses": [
+    {
+      "titulo": "Desarrollo de APIs con .NET Core",
+      "descripcion": "Aprende a construir APIs RESTful con ASP.NET Core.",
+      "categoria": "Programación",
+      "nivel": "Intermedio",
+      "duracion": 36,
+      "instructor": "María Sánchez",
+      "precio": 129.90,
+      "temario": ["Introducción", "Controladores", "Seguridad", "Testing"],
+      "fechaCreacion": "2026-06-05T10:00:00Z"
+    },
+    {
+      "titulo": "Modelado NoSQL con MongoDB",
+      "descripcion": "Domina el diseño de bases de datos no relacionales.",
+      "categoria": "Bases de Datos",
+      "nivel": "Principiante",
+      "duracion": 24,
+      "instructor": "Juan Torres",
+      "precio": 99.90,
+      "temario": ["Esquemas", "Índices", "Agregaciones"],
+      "fechaCreacion": "2026-06-05T10:00:00Z"
+    }
+  ]
+}

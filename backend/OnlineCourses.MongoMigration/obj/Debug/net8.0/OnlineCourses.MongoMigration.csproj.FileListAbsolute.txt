@@ -1,0 +1,16 @@
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/bin/Debug/net8.0/OnlineCourses.MongoMigration.deps.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/bin/Debug/net8.0/OnlineCourses.MongoMigration.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/bin/Debug/net8.0/OnlineCourses.MongoMigration.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/bin/Debug/net8.0/OnlineCourses.Core.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/bin/Debug/net8.0/OnlineCourses.Core.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.csproj.AssemblyReference.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.AssemblyInfoInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.AssemblyInfo.cs
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.csproj.CoreCompileInputs.cache
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.sourcelink.json
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCo.D5CACE0E.Up2Date
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/refint/OnlineCourses.MongoMigration.dll
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/OnlineCourses.MongoMigration.pdb
+/workspaces/examen-2026-i-bdii-u2-mariela3009/backend/OnlineCourses.MongoMigration/obj/Debug/net8.0/ref/OnlineCourses.MongoMigration.dll
