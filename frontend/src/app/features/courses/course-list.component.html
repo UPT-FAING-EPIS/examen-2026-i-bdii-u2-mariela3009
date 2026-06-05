@@ -1,34 +1,39 @@
 <section class="course-catalog">
   <h2>Catálogo de Cursos</h2>
-  <div class="course-grid" @for="let course of courses">
-    <article class="course-card">
-      <header>
-        <h3>{{ course.titulo }}</h3>
-        <span class="category">{{ course.categoria }}</span>
-      </header>
+  
+  <div class="course-grid">
+    @for (course of courses(); track course.id) {
+      <article class="course-card">
+        <header>
+          <h3>{{ course.titulo }}</h3>
+          <span class="category">{{ course.categoria }}</span>
+        </header>
 
-      <p class="description">{{ course.descripcion }}</p>
-      <p class="meta">
-        <strong>Nivel:</strong> {{ course.nivel }} •
-        <strong>Duración:</strong> {{ course.duracion }}h •
-        <strong>Instructor:</strong> {{ course.instructor }}
-      </p>
+        <p class="description">{{ course.descripcion }}</p>
+        <p class="meta">
+          <strong>Nivel:</strong> {{ course.nivel }} •
+          <strong>Duración:</strong> {{ course.duracion }}h •
+          <strong>Instructor:</strong> {{ course.instructor }}
+        </p>
 
-      <div class="price-row">
-        <span class="price">${{ course.precio }}</span>
-        <span class="date">{{ course.fechaCreacion | date:'mediumDate' }}</span>
+        <div class="price-row">
+          <span class="price">${{ course.precio }}</span>
+          <span class="date">{{ course.fechaCreacion | date:'mediumDate' }}</span>
+        </div>
+
+        <section class="temario">
+          <h4>Temario</h4>
+          <ul>
+            @for (item of course.temario; track item) {
+              <li>{{ item }}</li>
+            }
+          </ul>
+        </section>
+      </article>
+    } @empty {
+      <div class="empty-state">
+        No hay cursos disponibles en este momento.
       </div>
-
-      <section class="temario">
-        <h4>Temario</h4>
-        <ul>
-          <li @for="let item of course.temario">{{ item }}</li>
-        </ul>
-      </section>
-    </article>
-  </div>
-
-  <div *ngIf="courses.length === 0" class="empty-state">
-    No hay cursos disponibles en este momento.
+    }
   </div>
 </section>
